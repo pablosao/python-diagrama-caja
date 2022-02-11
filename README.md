@@ -1,2 +1,3 @@
-# python-diagrama-caja
-Diagrama de caja en Python con Matplotlib y Plotly
+# Diagrama de Caja
+
+Diagrama básico de caja utiliando Matplotlib y Plotly, utilizando datos cargados desde un CSV.
